@@ -7,6 +7,7 @@ public class Application {
 		Human human = new Human("Ivan", 25);
 
 		System.out.println(human.getAge());
+		System.out.println(human.getAge());
 
 		System.out.println(human.getName());
 
